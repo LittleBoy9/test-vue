@@ -8,7 +8,19 @@
 						<h3>Vus.js</h3>
 					</div>
 					<div class="card-body">
-						A camera is a device that captures visual images by using a combination of optics, electronics, and light-sensitive materials such as film or digital sensors. Cameras come in a variety of shapes and sizes, ranging from small handheld devices like smartphones and point-and-shoot cameras to larger, more sophisticated equipment used by professional photographers and videographers. The development of digital technology has revolutionized the field of photography, making it easier and more accessible than ever before to capture high-quality images and video. In addition to traditional photography, cameras are used in a variety of other applications, such as security and surveillance, scientific research, and space exploration. The Earth's population is currently over 7.8 billion people. The human population is growing rapidly. The human population is putting a strain on Earth's resources. The Earth's water supply is finite and needs to be conserved. The Earth's soil is being degraded by farming practices. The Earth's forests are being cut down at an alarming rate. Deforestation is a major contributor to climate change. 
+						Sony Corporation is a Japanese multinational conglomerate corporation that operates in various sectors including electronics, entertainment, and gaming. Here are some key notes about Sony:
+
+History: Sony was founded in 1946 in Tokyo, Japan, and started as a small radio repair shop. Over the years, it has grown into a multinational corporation with a presence in over 200 countries.
+
+Products and services: Sony produces a wide range of electronic products such as TVs, cameras, smartphones, gaming consoles, and home audio equipment. It also has a significant presence in the entertainment industry, owning major film and music production companies.
+
+Gaming: Sony's PlayStation gaming consoles are one of the most popular gaming platforms in the world, with the latest iteration being the PlayStation 5. The company also owns various gaming studios, including Naughty Dog, Insomniac Games, and Sony Santa Monica.
+
+Innovation: Sony has been known for its innovative products and technologies, such as the Walkman portable music player, the PlayStation gaming console, and the Blu-ray disc format.
+
+Corporate Social Responsibility: Sony is committed to being a responsible corporate citizen and has implemented various initiatives related to environmental sustainability, social responsibility, and diversity and inclusion.
+
+Financials: As of 2021, Sony's revenue was around $89 billion, with a net income of approximately $9.8 billion. The company employs over 110,000 people worldwide.
 					</div>
 				</div>
 			</div>
@@ -28,9 +40,17 @@
 						<h3>React</h3>
 					</div>
 					<div class="card-body">
-						
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+						As an AI language model, ChatGPT is designed to understand natural language input and generate appropriate responses based on its training data. Here are some key notes about ChatGPT:
+
+Natural Language Processing: ChatGPT uses natural language processing techniques to understand and respond to user inputs in a conversational manner.
+
+Large training dataset: ChatGPT is trained on a massive dataset of text data, including books, articles, and websites, allowing it to generate responses that are contextually relevant and linguistically diverse.
+
+OpenAI architecture: ChatGPT is based on the GPT-3.5 architecture developed by OpenAI, which is a state-of-the-art model for generating human-like text.
+
+Adaptability: ChatGPT can be fine-tuned on specific domains and tasks, allowing it to provide more targeted and accurate responses for specialized applications.
+
+Ethical considerations: As an AI language model, ChatGPT has raised concerns about potential biases, misinformation, and misuse. To mitigate these risks, ChatGPT's developers and users need to prioritize ethical practices such as transparency, accountability, and inclusivity.
 					</div>
 				</div>
 			</div>
